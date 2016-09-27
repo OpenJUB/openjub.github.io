@@ -1,0 +1,6 @@
+# Add specific directories
+.idea/
+.vscode/
+
+# Add specific files
+.DS_Store
